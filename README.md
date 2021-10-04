@@ -8,4 +8,6 @@
 
 <p> I develop front-end now, ı use HTML, CSS, Javascript and Python languages. </p>
 
-
+```
+Contact: dalmizraknihat@hotmail.com
+```
